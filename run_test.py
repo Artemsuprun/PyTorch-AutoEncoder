@@ -1,3 +1,9 @@
+#
+# File:   run_test.py
+# Author: Artem Suprun
+# Date:   10/30/2026
+# Description: User-facing interface for running an autoencoder (for testing purposes).
+#
 
 import argparse
 import random
